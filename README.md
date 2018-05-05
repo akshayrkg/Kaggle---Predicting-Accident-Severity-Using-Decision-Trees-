@@ -3,7 +3,7 @@
 Best approach gave Test Accuracy = 92%
 
 
-Approaches include use of :
+Implemented
 
 
 Decision Trees, Random Forest, AdaBoost, GradientBoost, XGBoost
